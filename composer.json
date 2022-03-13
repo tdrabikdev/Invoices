@@ -31,6 +31,5 @@
                 "ConsoleTVs\\Invoices\\InvoicesServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
